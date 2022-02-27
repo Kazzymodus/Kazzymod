@@ -1,0 +1,9 @@
+author = Kazzymodus
+version = 1.0
+displayName = Kazzymod
+homepage = -
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+languageVersion = 6
